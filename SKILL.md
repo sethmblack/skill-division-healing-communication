@@ -3,8 +3,9 @@ name: division-healing-communication
 description: Craft communications that bridge divides, heal rifts, and rebuild relationships without abandoning principles. Based on Lincoln's "malice toward none, with charity for all, with firmness in the rig...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3848
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - division-healing-communication
 - writing
